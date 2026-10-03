@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.env*
+!.env.example
+coverage/
+artifacts/
+*.tar.gz
+*.zip
+verification/screenshots/
+
+.vercel
